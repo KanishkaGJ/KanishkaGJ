@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishka Jayarathna</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://medium.com/swlh/what-is-programming-d5aa8fb0f280">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkagj&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkagj" /> </p>
 
