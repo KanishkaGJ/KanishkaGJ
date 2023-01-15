@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishka Jayarathna</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="[[https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c.js](https://medium.com/saravananraghul/top-10-websites-for-coding-challenge-and-competition-for-all-in-2020-3c06251c7348)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw3U360De7nuKfvRdTh7b0CY&ust=1673880866425000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD2uKXqyfwCFQAAAAAdAAAAABAT)">
+<img align="right" alt="Coding" width="400" src="https://medium.com/swlh/what-is-programming-d5aa8fb0f280">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkagj&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkagj" /> </p>
 
