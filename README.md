@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kgjayarathna" target="blank"><img src="https://img.shields.io/twitter/follow/kgjayarathna?logo=twitter&style=for-the-badge" alt="kgjayarathna" /></a> </p>
 
-- 🔭 I’m currently working on **IOS Mobile Development**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **React**
 
