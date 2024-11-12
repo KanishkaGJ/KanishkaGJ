@@ -6,11 +6,12 @@
 
 <p align="center"> <a href="https://twitter.com/kgjayarathna" target="blank"><img src="https://img.shields.io/twitter/follow/kgjayarathna?logo=twitter&style=for-the-badge" alt="kgjayarathna" /></a> </p>
 <h4 align="center">
-🔭 I’m currently working on **Backend Development**
-  
-💬 Ask me about **React**
+🔭 I’m currently working on <b>Backend Development</b>
 
-📫 How to reach me **gathumina@gmail.com**
+  
+💬 Ask me about React
+
+📫 How to reach me gathumina@gmail.com
 </h4>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
