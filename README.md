@@ -2,15 +2,13 @@
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkagj&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkagj" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kanishkagj&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkagj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kgjayarathna" target="blank"><img src="https://img.shields.io/twitter/follow/kgjayarathna?logo=twitter&style=for-the-badge" alt="kgjayarathna" /></a> </p>
+<p align="center"> <a href="https://twitter.com/kgjayarathna" target="blank"><img src="https://img.shields.io/twitter/follow/kgjayarathna?logo=twitter&style=for-the-badge" alt="kgjayarathna" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Java, Web Development**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **gathumina@gmail.com**
 
